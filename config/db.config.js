@@ -1,8 +1,8 @@
 module.exports = {
-    HOST: "127.0.0.1",
-    USER: "root",
-    PASSWORD: "admin",
-    DB: "proyecto2024",
+    HOST: "195.35.53.20",
+    USER: "u117281852_w24021007",
+    PASSWORD: "Sandia62$",
+    DB: "u117281852_w24021201",
     PORT: 3306
   };
   
